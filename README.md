@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 </div>
 
 
-<video preload="auto" loop autoplay src="https://i.gifer.com/7ILK.mp4"></video>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/natalia-arshinova-753143235/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
 
 
