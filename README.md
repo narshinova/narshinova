@@ -1,7 +1,6 @@
-### Hi there 👋
 
-### QA_Engineer
----
+<h2 align="center"> Welcome to Natalia Arshinova's profile  👋 </h2>
+
 
 <!--
 **tatyana-romanova/tatyana-romanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +24,4 @@ Here are some ideas to get you started:
 
 <video preload="auto" loop autoplay src="https://i.gifer.com/7ILK.mp4"></video>
 
-<img src="https://media1.giphy.com/media/7ILK/giphy.gif" alt="я джифка">
+
