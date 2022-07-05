@@ -1,11 +1,11 @@
-<div id="header" align="center">
-  <img src="https://i.gifer.com/BWkS.gif" width="100"/>
-</div>
-
 ### Hi there 👋
 
+### :Junior_QA_Engineer:  About Me :
+---
+
 <!--
-**narshinova/narshinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tatyana-romanova/tatyana-romanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div id="header" align="center">
-  <img src="https://i.gifer.com/BWkS.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
+
+<video preload="auto" loop autoplay src="https://i.gifer.com/7ILK.mp4"></video>
