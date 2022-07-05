@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :Junior_QA_Engineer:  About Me :
+### QA_Engineer
 ---
 
 <!--
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
 
 <video preload="auto" loop autoplay src="https://i.gifer.com/7ILK.mp4"></video>
+
+<img src="https://media1.giphy.com/media/7ILK/giphy.gif" alt="я джифка">
