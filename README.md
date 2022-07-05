@@ -1,5 +1,5 @@
 
-<h2 align="center"> Welcome to Natalia Arshinova's profile  👋 </h2>
+<h2 align="center"> Welcome to Natalia Arshinova's profile! </h2>
 
 
 <!--
