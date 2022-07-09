@@ -6,7 +6,7 @@
 <h3 align="center">I am junior qa-enginer. Now I search work or internship.👯</h3> <br>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" height="400"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35" height="350"/>
 
 
 - 👨‍💻 I’m currently learning **Сourses QA by Vadim Ksendzov**
