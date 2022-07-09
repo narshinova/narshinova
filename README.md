@@ -3,15 +3,15 @@
 <h2 align="center"> ✨Welcome to Natalia Arshinova's profile!!!✨ </h2>
 
 
-<h3 align="center">I am junior qa-enginer. Now I search work or internship.</h3>
+<h3 align="center">I am junior qa-enginer. Now I search work or internship.👯</h3> <br>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" height="400"/>
 
 
 - 👨‍💻 I’m currently learning **Сourses QA by Vadim Ksendzov**
 
-- 📝 Examples of my work [test artifacts](https://github.com/narshinova/Test_artifacts)
+- 🔭 Examples of my work [work in Postman](https://github.com/narshinova/Postman])
 
 - 💬 My Telegram **https://t.me/Natalia_Arshinova**
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...📝
 -->
 
 
