@@ -9,7 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35" height="350"/>
 
 
-- 👨‍💻 I’m currently learning **Сourses QA by Vadim Ksendzov**
+- 💼 I’m currently learning **Сourses QA by Vadim Ksendzov**
+
+- 📖 I have read the books "Software Testing" by Svyatoslav Kulikov,"Testing Dot Com" by Roman Savin; 
 
 - 🔭 Examples of my work [work in Postman](https://github.com/narshinova/Postman])
 
