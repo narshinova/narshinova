@@ -11,7 +11,7 @@
 
 - 💼 I’m currently learning **Сourses QA by Vadim Ksendzov**
 
-- 📖 I have read the books "Software Testing" by Svyatoslav Kulikov,"Testing Dot Com" by Roman Savin 
+- 📖 I have read the books "Software Testing" by Svyatoslav Kulikov & "Testing Dot Com" by Roman Savin 
 
 - 🔭 Examples of my work [work in Postman](https://github.com/narshinova/Postman])
 
